@@ -108,5 +108,6 @@ public class TestCases extends Data {
 	@AfterTest()
 	public void afterTest() {
 
+		driver.quit();
 	}
 }
