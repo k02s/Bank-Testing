@@ -7,9 +7,7 @@
         <methods>
           <include name="addCustomer"/>
           <include name="afterTest"/>
-          <include name="bankManagerLogin"/>
           <include name="setup"/>
-          <include name="openAccountAndDeleteCustomer"/>
         </methods>
       </class> <!-- bank.TestCases -->
     </classes>
